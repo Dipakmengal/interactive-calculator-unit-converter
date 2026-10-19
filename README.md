@@ -8,7 +8,6 @@ with a browser-based interactive application.
 
 **Try the application:** [Open Live Demo](https://interactive-calculator-unit-converter-jbedqywzkgkmsssxdp9ker.streamlit.app/)
 
-> Replace the placeholder above with your deployed Streamlit URL.
 
 ## 📌 Features
 
